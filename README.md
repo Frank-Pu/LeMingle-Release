@@ -35,7 +35,7 @@
 #### Chrome / Edge / Brave 浏览器：
 
 1. **下载**最新版本：
-   - [下载插件压缩包 (lemingle-v1.0.2.zip)](./lemingle-v1.0.2.zip?raw=true)
+   - [插件压缩包 (lemingle-v1.0.2.zip)](./lemingle-v1.0.2.zip)
 
 2. **解压** zip 文件到一个文件夹
 
