@@ -23,7 +23,7 @@ LeMingle-Release/
 ├── RELEASE_TEMPLATE.md        # Release 描述模板
 ├── PUBLISH_CHECKLIST.md       # 发布检查清单（内部使用）
 │
-├── lemingle-v1.0.2.zip        # 扩展安装包
+├── lemingle-v1.0.3.zip        # 扩展安装包
 │
 ├── .gitignore                 # Git 忽略文件
 └── .github/
@@ -58,7 +58,7 @@ LeMingle-Release/
 - ✅ 只包含打包好的 zip 文件
 
 ### 5. 扩展文件 ✅
-- ✅ lemingle-v1.0.2.zip（1.5 MB）
+- ✅ lemingle-v1.0.3.zip（1.5 MB）
 - ✅ 已验证不包含敏感文件
 
 ---
@@ -85,13 +85,13 @@ git init
 git add .
 
 # 首次提交
-git commit -m "Initial release: LeMingle v1.0.2
+git commit -m "Initial release: LeMingle v1.0.3
 
 - Multi-language README (5 languages)
 - Comprehensive installation guide
 - User documentation
 - Security policy
-- Extension package v1.0.2"
+- Extension package v1.0.3"
 
 # 连接到 GitHub（替换为你的实际仓库 URL）
 git remote add origin https://github.com/YOUR_USERNAME/LeMingle-Release.git
@@ -106,13 +106,13 @@ git push -u origin main
 1. **访问仓库** → **Releases** → **Create a new release**
 
 2. **填写信息**：
-   - **Tag**: `v1.0.2`
+   - **Tag**: `v1.0.3`
    - **Target**: `main`
-   - **Title**: `LeMingle v1.0.2 - Multi-language Support`
+   - **Title**: `LeMingle v1.0.3 - Multi-language Support`
    - **Description**: 复制 `RELEASE_TEMPLATE.md` 的内容
 
 3. **上传文件**：
-   - 拖拽 `lemingle-v1.0.2.zip` 到附件区域
+   - 拖拽 `lemingle-v1.0.3.zip` 到附件区域
 
 4. **发布**：
    - 勾选 "Set as the latest release"
@@ -241,7 +241,7 @@ git push
 在推送到 GitHub 前，确认：
 
 - [ ] ✅ 所有文档中的邮箱是 qiangkong_ai@163.com
-- [ ] ✅ 所有文档中的版本号是 v1.0.2
+- [ ] ✅ 所有文档中的版本号是 v1.0.3
 - [ ] ✅ zip 文件存在且大小正确（约 1.5 MB）
 - [ ] ✅ 没有任何敏感信息
 - [ ] ✅ 所有链接都正确

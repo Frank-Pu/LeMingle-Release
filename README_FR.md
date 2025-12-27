@@ -36,7 +36,7 @@
 
 1. **Téléchargez** la dernière version :
    - Allez sur la [page Releases](../../releases)
-   - Téléchargez `lemingle-v1.0.2.zip`
+   - Téléchargez `lemingle-v1.0.3.zip`
 
 2. **Extrayez** le fichier zip dans un dossier
 
@@ -117,7 +117,7 @@ Lisez notre [Politique de confidentialité](https://www.lemingle.com/privacy)
 
 ## 📝 Journal des modifications
 
-### v1.0.2 (2025-11-29)
+### v1.0.3 (2025-11-29)
 - ✨ Support de l'interface multilingue (5 langues)
 - 🐛 Correction des traductions des cartes de collection
 - 🎨 Amélioration de la conception de la popup et de la page d'options
